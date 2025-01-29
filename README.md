@@ -14,5 +14,3 @@ A fully functional **scientific calculator** built using **Python and Tkinter**,
 1. Clone the repository  
 2. Run `python calculator.py`  
 3. Start performing calculations!  
-
-Let me know if you want to tweak anything! 
